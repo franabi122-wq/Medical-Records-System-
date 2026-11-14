@@ -1,4 +1,4 @@
-         Hospital Medical Records               Management System (MRMS)
+                            Hospital Medical Records Management System (MRMS)
 
 A web-based healthcare information management project developed to explore digital medical records management, data organisation, and patient information privacy.
 
